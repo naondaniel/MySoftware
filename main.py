@@ -1,5 +1,4 @@
-def func(name):
-    return name + " " + "hello"
+def click():
+    print("click")
 
-result = func("dani")
-print(result)
+click()
